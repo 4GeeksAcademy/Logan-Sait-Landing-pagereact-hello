@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color: rgb(245, 238, 238);
+    text-align: center;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 100px
+    
+    
+    
+  }
+  
+  
+  
+  .display-4{
+  
+    display: flex;
+    padding-left: 300px;
+  
+   
+  }
+  
+  .lead{
+  
+    display: flex;
+    padding-left: 300px;
+  
+  
+  }
