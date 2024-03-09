@@ -1,14 +1,19 @@
 import React from "react";
+import Footer from "./footer";
+import Card from "./Card";
 
-import Footer from "./footer"
-
-//create your first component
 const Home = () => {
-	return (
-		<div>
-			<Footer />
-		</div>
-	
-)};
+    return (
+        <><div className="container">
+			<Card />
+			<Card />
+			<Card />
+			<Card />
+		</div><div>
+				<Footer />
+			</div></>
+    );
+};
 
 export default Home;
+
