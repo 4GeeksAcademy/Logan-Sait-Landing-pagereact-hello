@@ -6,9 +6,9 @@ import './footerStyles.css'
 const Footer = () => {
 	return (
 		<div className="Footer">
-
+			    Copyright @ Your Website 2024
         </div>
-	
-)};
+	);
+};
 
 export default Footer;
